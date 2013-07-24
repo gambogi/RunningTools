@@ -1,4 +1,4 @@
 RunningTools
 ============
 
-Run Logger, Training Planner, etc.
+A haskell module for working with running related data
